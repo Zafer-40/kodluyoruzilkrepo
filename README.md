@@ -24,4 +24,7 @@ Pull requestler kabul edilir. Buyuk degisiklikler icin , lutfen once neyi degist
 
 [MIT](https://choosealicense.com/licenses/mit/)
 
+## GUMRAL
+
+
 
